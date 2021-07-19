@@ -6,7 +6,7 @@
 | ------------- |:-------------:|  -------------:|  
 | mysite.com/perch | mysite.com/panel | |  
 | Page Properties | make a page tab in the panel  | [tabs in panel](https://getkirby.com/docs/guide/blueprints/tabs) |
-|  `\<?php perch_layout('header');?>` | `\<?php snippet('header') ?>` | [snippet](https://getkirby.com/docs/guide/templates/snippets)|
+|  `<?php perch_layout('header');?>` | `<?php snippet('header') ?>` | [snippet](https://getkirby.com/docs/guide/templates/snippets)|
 | Page template | 1. In a [blueprint](https://getkirby.com/docs/guide/blueprints/introduction) of the page, for the data definition and panel appearence | 2. In a [page template](https://getkirby.com/docs/guide/templates/basics) for the frontend website |  
 | update by replacing /core/ | update by replacing /kirby/ | [update kirby](https://getkirby.com/docs/guide/quickstart#updates) |
 
